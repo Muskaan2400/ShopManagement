@@ -1,0 +1,73 @@
+C:\Users\SAURABH PATIL\Desktop\Saurabh Patil\Windows application\Task\ShopManagement\ShopManagement\bin\Debug\ShopManagement.exe.config
+C:\Users\SAURABH PATIL\Desktop\Saurabh Patil\Windows application\Task\ShopManagement\ShopManagement\bin\Debug\ShopManagement.exe
+C:\Users\SAURABH PATIL\Desktop\Saurabh Patil\Windows application\Task\ShopManagement\ShopManagement\bin\Debug\ShopManagement.pdb
+C:\Users\SAURABH PATIL\Desktop\Saurabh Patil\Windows application\Task\ShopManagement\ShopManagement\obj\Debug\ShopManagement.csproj.AssemblyReference.cache
+C:\Users\SAURABH PATIL\Desktop\Saurabh Patil\Windows application\Task\ShopManagement\ShopManagement\obj\Debug\ShopManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\SAURABH PATIL\Desktop\Saurabh Patil\Windows application\Task\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmShopManagement.resources
+C:\Users\SAURABH PATIL\Desktop\Saurabh Patil\Windows application\Task\ShopManagement\ShopManagement\obj\Debug\ShopManagement.Properties.Resources.resources
+C:\Users\SAURABH PATIL\Desktop\Saurabh Patil\Windows application\Task\ShopManagement\ShopManagement\obj\Debug\ShopManagement.csproj.GenerateResource.cache
+C:\Users\SAURABH PATIL\Desktop\Saurabh Patil\Windows application\Task\ShopManagement\ShopManagement\obj\Debug\ShopManagement.csproj.CoreCompileInputs.cache
+C:\Users\SAURABH PATIL\Desktop\Saurabh Patil\Windows application\Task\ShopManagement\ShopManagement\obj\Debug\ShopManagement.exe
+C:\Users\SAURABH PATIL\Desktop\Saurabh Patil\Windows application\Task\ShopManagement\ShopManagement\obj\Debug\ShopManagement.pdb
+C:\Users\SAURABH PATIL\Desktop\Saurabh Patil\Windows application\Task\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmRegisterUser.resources
+C:\Users\SAURABH PATIL\Desktop\Saurabh Patil\Windows application\Task\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmProductType.resources
+C:\Users\SAURABH PATIL\Desktop\Saurabh Patil\Windows application\Task\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmProduct.resources
+C:\Users\SAURABH PATIL\Desktop\Saurabh Patil\Windows application\Task\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmSize.resources
+H:\Saurabh Patil\Windows application\Task\ShopManagement\ShopManagement\bin\Debug\ShopManagement.exe.config
+H:\Saurabh Patil\Windows application\Task\ShopManagement\ShopManagement\bin\Debug\ShopManagement.exe
+H:\Saurabh Patil\Windows application\Task\ShopManagement\ShopManagement\bin\Debug\ShopManagement.pdb
+H:\Saurabh Patil\Windows application\Task\ShopManagement\ShopManagement\obj\Debug\ShopManagement.csproj.AssemblyReference.cache
+H:\Saurabh Patil\Windows application\Task\ShopManagement\ShopManagement\obj\Debug\ShopManagement.csproj.SuggestedBindingRedirects.cache
+H:\Saurabh Patil\Windows application\Task\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmShopManagement.resources
+H:\Saurabh Patil\Windows application\Task\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmProduct.resources
+H:\Saurabh Patil\Windows application\Task\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmProductType.resources
+H:\Saurabh Patil\Windows application\Task\ShopManagement\ShopManagement\obj\Debug\ShopManagement.Properties.Resources.resources
+H:\Saurabh Patil\Windows application\Task\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmRegisterUser.resources
+H:\Saurabh Patil\Windows application\Task\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmSize.resources
+H:\Saurabh Patil\Windows application\Task\ShopManagement\ShopManagement\obj\Debug\ShopManagement.csproj.GenerateResource.cache
+H:\Saurabh Patil\Windows application\Task\ShopManagement\ShopManagement\obj\Debug\ShopManagement.csproj.CoreCompileInputs.cache
+H:\Saurabh Patil\Windows application\Task\ShopManagement\ShopManagement\obj\Debug\ShopManagement.exe
+H:\Saurabh Patil\Windows application\Task\ShopManagement\ShopManagement\obj\Debug\ShopManagement.pdb
+H:\Saurabh Patil\Windows application\Task\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmRegister.resources
+H:\Saurabh Patil\Windows application\Task\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmOrder.resources
+F:\MiniProject\ShopManagement\ShopManagement\bin\Debug\ShopManagement.exe.config
+F:\MiniProject\ShopManagement\ShopManagement\bin\Debug\ShopManagement.exe
+F:\MiniProject\ShopManagement\ShopManagement\bin\Debug\ShopManagement.pdb
+F:\MiniProject\ShopManagement\ShopManagement\obj\Debug\ShopManagement.csproj.AssemblyReference.cache
+F:\MiniProject\ShopManagement\ShopManagement\obj\Debug\ShopManagement.csproj.SuggestedBindingRedirects.cache
+F:\MiniProject\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmShopManagement.resources
+F:\MiniProject\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmRegister.resources
+F:\MiniProject\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmOrder.resources
+F:\MiniProject\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmProduct.resources
+F:\MiniProject\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmProductType.resources
+F:\MiniProject\ShopManagement\ShopManagement\obj\Debug\ShopManagement.Properties.Resources.resources
+F:\MiniProject\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmRegisterUser.resources
+F:\MiniProject\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmSize.resources
+F:\MiniProject\ShopManagement\ShopManagement\obj\Debug\ShopManagement.csproj.GenerateResource.cache
+F:\MiniProject\ShopManagement\ShopManagement\obj\Debug\ShopManagement.csproj.CoreCompileInputs.cache
+F:\MiniProject\ShopManagement\ShopManagement\obj\Debug\ShopManagement.exe
+F:\MiniProject\ShopManagement\ShopManagement\obj\Debug\ShopManagement.pdb
+F:\MiniProject\ShopManagement\ShopManagement\obj\Debug\ShopManagement.login.resources
+C:\Users\Admin\Desktop\ShopManagement\ShopManagement\bin\Debug\ShopManagement.exe.config
+C:\Users\Admin\Desktop\ShopManagement\ShopManagement\bin\Debug\ShopManagement.exe
+C:\Users\Admin\Desktop\ShopManagement\ShopManagement\bin\Debug\ShopManagement.pdb
+C:\Users\Admin\Desktop\ShopManagement\ShopManagement\obj\Debug\ShopManagement.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ShopManagement\ShopManagement\obj\Debug\ShopManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmShopManagement.resources
+C:\Users\Admin\Desktop\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmRegister.resources
+C:\Users\Admin\Desktop\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmOrder.resources
+C:\Users\Admin\Desktop\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmProduct.resources
+C:\Users\Admin\Desktop\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmProductType.resources
+C:\Users\Admin\Desktop\ShopManagement\ShopManagement\obj\Debug\ShopManagement.Properties.Resources.resources
+C:\Users\Admin\Desktop\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmRegisterUser.resources
+C:\Users\Admin\Desktop\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmSize.resources
+C:\Users\Admin\Desktop\ShopManagement\ShopManagement\obj\Debug\ShopManagement.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\ShopManagement\ShopManagement\obj\Debug\ShopManagement.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ShopManagement\ShopManagement\obj\Debug\ShopManagement.exe
+C:\Users\Admin\Desktop\ShopManagement\ShopManagement\obj\Debug\ShopManagement.pdb
+C:\Users\Admin\Desktop\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmLogin.resources
+C:\Users\Admin\Desktop\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmAdmin.resources
+C:\Users\Admin\Desktop\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmOrderProducts.resources
+C:\Users\Admin\Desktop\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmOfferForm.resources
+C:\Users\Admin\Desktop\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmUnorderProduct.resources
+C:\Users\Admin\Desktop\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmUnorderCustomer.resources
